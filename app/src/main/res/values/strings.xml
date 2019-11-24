@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BLE_Advertising</string>
+    <string name="ble_not_supported">裝置不支援BLE！</string>
+    <string name="bt_not_supported">裝置不支援藍牙！</string>
+    <string name="bt_scanning">掃描中</string>
+    <string name="bt_stop_scan">掃描停止</string>
+    <string name="dialog_permission_title">需要取得「位置」權限</string>
+    <string name="dialog_permission_message">「位置」權限僅用於藍牙的連線與掃描功能</string>
+    <string name="dialog_permission_ok">好的</string>
+    <string name="dialog_permission_no">拒絕</string>
+    <string name="dialog_permission_toast_negative">。･ﾟ･(つд`ﾟ)･ﾟ･</string>
+</resources>
