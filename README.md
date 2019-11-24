@@ -1,4 +1,4 @@
 # BLE Advertising Demo
 
 
-![advertising](https://i.imgur.com/PUdrcDo.png)
+![advertising](https://i.imgur.com/PUdrcDo.jpg)
